@@ -2,10 +2,15 @@ aol.com
 comcast.net
 gmail.com
 googlemail.com
+guerillamail.com
 hotmail.com
+inbox.com
 live.com
+mailinator.com
 msn.com
 outlook.com
 rediff.com
+spamgourmet.com
+trashmail.net
 yahoo.com
 ymail.com
