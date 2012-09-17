@@ -5,5 +5,7 @@ googlemail.com
 hotmail.com
 live.com
 msn.com
+outlook.com
+rediff.com
 yahoo.com
 ymail.com
