@@ -1,9 +1,9 @@
+aol.com
+comcast.net
 gmail.com
 googlemail.com
-aol.com
-yahoo.com
-ymail.com
+hotmail.com
 live.com
 msn.com
-hotmail.com
-comcast.net
+yahoo.com
+ymail.com
