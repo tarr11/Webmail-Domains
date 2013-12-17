@@ -7,6 +7,7 @@ bigpond.com.au
 bigpond.net.au
 comcast.net
 dispostable.com
+dodo.com.au
 everymail.net
 everyone.net
 exemail.com.au
@@ -22,6 +23,7 @@ hotmail.fr
 hotmail.it
 hotmail.co.uk
 hushmail.com
+icloud.com
 iinet.net.au
 inbox.com
 internode.on.net
@@ -30,6 +32,7 @@ live.com
 live.com.au
 live.co.uk
 lycos.com
+mac.com
 mail.com
 mail.ru
 mailinator.com
@@ -46,6 +49,7 @@ rocketmail.com
 runbox.com
 seznam.cz
 spamgourmet.com
+telstra.com
 telstra.com.au
 tpg.com.au
 trashmail.net
