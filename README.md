@@ -4,6 +4,7 @@ The idea is to use it as a blacklist if you want to require a "company domain" (
 
 Feel free to make pull requests, and I'll add them in.
 
+# Note from https://github.com/mekkim/ -> I also include ISP client email accounts in this list
 
 #MIT License#
 Copyright (c) 2012 Douglas Tarr
